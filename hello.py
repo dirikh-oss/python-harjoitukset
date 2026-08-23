@@ -1,0 +1,1 @@
+print("nimeni on khaalid")
