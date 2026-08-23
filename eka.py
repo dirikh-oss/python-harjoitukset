@@ -1,1 +1,1 @@
-print("nimeni on khaalid")
+print("Hei, Khaalid Diriye")
