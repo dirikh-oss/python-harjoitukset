@@ -1,2 +1,2 @@
-## Pelin nimi: crash
+## Pelin nimi: Crash
 #### Khaalid diriye
