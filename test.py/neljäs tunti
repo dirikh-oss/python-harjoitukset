@@ -1,0 +1,15 @@
+##nimet = []
+#nimi = input ("mikä on kaverien nimet?")
+3#while Tru0e      
+#kaverilista = []
+#while True :
+    #nimi= input (' anna kaverisi nimi,')
+    #if nimi == "  ":
+    #    break
+    #else:
+     #   kaverilista.append(nimi)
+#print(f'tässä lista sun kavereista:{kaverilista}')    
+#nimet= [] 
+#nimi= input("anna ensimäinen nimi tai lopeta painamalla enter")
+#while nimi != " ":
+    #   nimi= ('anna kaverisi nimi')

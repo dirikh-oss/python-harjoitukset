@@ -5,4 +5,3 @@ elif luku ==100:
     print ('antamasi luku oli luku ja lukusi on tasan 100')
 else:
     print ('antamasi luku oli luku ja lukusi on suurempi kuin 100')
-    
